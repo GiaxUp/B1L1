@@ -17,7 +17,7 @@ public class Helloworld {
 		if (numero % 2 == 0) {
 			return 0;
 		} else {
-			return 1; // Se il numero è dispari
+			return 1;
 		}
 	}
 
